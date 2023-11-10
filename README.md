@@ -1,5 +1,5 @@
 # T-SNE-Visualization-of-imagenette
-This is a visualization for the imagenette dataset. It uses the final features of a model trained from scratch.  The Imagenette dataset is a smaller subset of the popular ImageNet dataset, which is a large dataset used for object detection and image classification tasks.
+This is a visualization for the imagenette dataset in our Wasserstein DD paper. It uses the final features of a model trained from scratch.  The Imagenette dataset is a smaller subset of the popular ImageNet dataset, which is a large dataset used for object detection and image classification tasks.
 
 ## Visualization
 
@@ -9,7 +9,7 @@ Visualization using ResNet101 in train.ipynb.
 
 Visualization using ResNet101 in imagenette.ipynb, in which keras apis are used.
 
-![img2](https://s2.loli.net/2023/11/08/Wv8B7TLc91sJGKn.png)
+![img](https://s2.loli.net/2023/11/11/tlX8Md3s6qnrkaS.png)
 
 ## Getting Started
 
