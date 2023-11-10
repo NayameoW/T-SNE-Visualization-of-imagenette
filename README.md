@@ -36,3 +36,6 @@ To use this project:
 
 1. Clone the repository.
 2. Open and run the `imagenette.ipynb` notebook.
+
+## Models
+You can get model checkpoints [here](https://drive.google.com/drive/folders/1vo86AIdSKkTFOXAmB_Ts4dCZbU2SjXQm?usp=sharing)
