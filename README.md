@@ -11,6 +11,10 @@ Visualization using ResNet101 in imagenette.ipynb, in which keras apis are used.
 
 ![img](https://s2.loli.net/2023/11/11/tlX8Md3s6qnrkaS.png)
 
+Visualization of the distilled images we synthesized on the original dataset:
+
+![img](https://s2.loli.net/2023/11/13/641uMOSQcTJaVG3.png)
+
 ## Getting Started
 
 These instructions will help you set up the project and understand the workflow.
